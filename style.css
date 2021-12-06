@@ -95,3 +95,16 @@
   font-size: 40px;
   gap: 20px;
 }
+.testimonial {
+  margin-top: 100px;
+  background-color: #e5e7eb;
+  padding: 150px;
+}
+.testimonial p {
+  width: 600px;
+  font-size: 20px;
+  margin: auto;
+}
+.testimonial strong {
+  margin-left: 650px;
+}
