@@ -64,7 +64,7 @@
 }
 .hero-text p {
   font-size: 18px;
-  color: #d8d8d8;
+  color: #e5e7eb;
 }
 .starter-pokemons {
   text-align: center;
@@ -107,4 +107,37 @@
 }
 .testimonial strong {
   margin-left: 650px;
+}
+.sign-up {
+  background-color: #3882f6;
+  width: 700px;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin: 70px auto;
+  border-radius: 5px;
+}
+.sign-letters {
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+}
+.sign-up button {
+  width: 100px;
+  background-color: #3882f6;
+  padding: 5px;
+  color: white;
+  border-radius: 7px;
+  border: none;
+  border: white 2px solid;
+}
+
+.sign-letters strong {
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.sign-letters p {
+  color: #e5e7eb;
 }
